@@ -1,2 +1,2 @@
 # Knights
-A enemy swarm game
+An enemy swarm game
