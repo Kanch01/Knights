@@ -2,7 +2,7 @@
 
 A top-down action survival game where you play as a knight defending your city from an invading kingdom. Defeat **20 enemies** to win — and once you’ve won, you can keep playing to survive as long as you can.
 
-> **Demo:** (add link here)  
+> **Demo:** https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00b931d9-39ae-4ecb-99ac-b3e200589f80
 
 ---
 
